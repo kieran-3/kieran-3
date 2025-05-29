@@ -2,6 +2,16 @@
 
 I'm deeply passionate about cybersecurity and enjoy solving complex challenges through hands-on projects. Whether it's vulnerability management or threat detection, these experiences let me explore the dynamic world of cybersecurity in depth. Feel free to take a look at my work and see how I’ve contributed to improving security operations and processes!
 
+## 📜 Certifications
+
+- **[AWS Certified Cloud Practitioner](https://cp.certmetrics.com/amazon/en/public/verify/credential/70cf5737bbe749e0988924751560c22d)**
+- **[CompTIA Security+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=HNP9YZBCMNQ1Q13T)**
+- **[CompTIA Network+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=HNP9YZBCMNQ1Q13T)**
+- **[CompTIA A+](https://www.certmetrics.com/comptia/public/transcript.aspx?transcript=HNP9YZBCMNQ1Q13T)**
+- **[ITIL 4 Foundation](https://www.peoplecert.org/for-corporations/certificate-verification-service)**
+- **[Linux Essentials Certification](https://cs.lpi.org/caf/Xamman/certification/verify/LPI000628758/5du78vxxb2)**
+
+
 ## ⚠️ Vulnerability Management Projects
 
 - **[Vulnerability Management Program Implementation]()**
